@@ -1,0 +1,22 @@
+{
+  "name": "push-notification-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynde/push-notification-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynde/push-notification-express/issues"
+  },
+  "homepage": "https://github.com/cynde/push-notification-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
